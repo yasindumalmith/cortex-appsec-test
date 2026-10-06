@@ -1,1 +1,0 @@
-# cortex-appsec-test
